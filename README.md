@@ -1,5 +1,5 @@
 # Hello AR App
-My first android app using ARCore Sceneform SDK.
+My first android app using ARCore Sceneform SDK.\
 This app displays a 3D Model (Arctic Fox) on a detected surface in Augmented Reality.
 
 > Sceneform is used to render 3D scenes without us having to learn anything about OpenGL.
@@ -18,5 +18,5 @@ This app displays a 3D Model (Arctic Fox) on a detected surface in Augmented Rea
 
 
 ## Thank You!
-This app was made by referring to this [tutorial playlist](https://www.youtube.com/playlist?list=PLsOU6EOcj51cEDYpCLK_bzo4qtjOwDWfW).
+This app was made by referring to this [tutorial playlist](https://www.youtube.com/playlist?list=PLsOU6EOcj51cEDYpCLK_bzo4qtjOwDWfW).\
 The Arctic Fox 3D model and other models can be found [here](poly.google.com).
