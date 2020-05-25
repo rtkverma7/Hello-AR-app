@@ -10,7 +10,7 @@ This app displays a 3D Model (Arctic Fox) on a detected surface in Augmented Rea
 	- **3.6.x** not preferred as Sceneform is not yet supported.
  - Google Sceneform Tools plugin installed in Android Studio.
  - Android device that supports ARCore ([check here](https://developers.google.com/ar/discover/supported-devices)).
- - If you're running on emulator, install the ***ARCore-for-emulator.apk*** from [here](https://github.com/google-ar/arcore-android-sdk/releases).
+ - If you're running on emulator, install the latest **{ARCore}_for_emulator.apk** from the **assets** [here](https://github.com/google-ar/arcore-android-sdk/releases).
 	 - Set rear camera to **VirtualScene**.
 
 
