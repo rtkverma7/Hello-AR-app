@@ -19,4 +19,4 @@ This app displays a 3D Model (Arctic Fox) on a detected surface in Augmented Rea
 
 ## Thank You!
 This app was made by referring to this [tutorial playlist](https://www.youtube.com/playlist?list=PLsOU6EOcj51cEDYpCLK_bzo4qtjOwDWfW).\
-The Arctic Fox 3D model and other models can be found [here](poly.google.com).
+The Arctic Fox 3D model and other models can be found [here](www.poly.google.com).
