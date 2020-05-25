@@ -7,9 +7,6 @@
  *
  */
 
-// Sceneform is used to render 3D scenes without us having to learn anything about OpenGL.
-// Arctic Fox : https://poly.google.com/view/dK08uQ8-Zm9 ( download the OBJ file )
-
 package com.rtkverma7.helloar2;
 
 import androidx.appcompat.app.AlertDialog;
