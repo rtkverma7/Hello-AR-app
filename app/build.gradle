@@ -18,7 +18,7 @@ android {
         }
     }
 
-    /**
+    /*
      * Enable Java 8
      * Sceneform uses language constructs from Java 8. For projects that have a min API level less than 26,
      * you need to explicitly add support for Java 8.

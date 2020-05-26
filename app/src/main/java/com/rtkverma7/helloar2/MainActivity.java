@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
             Anchor anchor = hitResult.createAnchor();
 
             // To build our model using the sceneform asset (*.sfb)
+            // The sceneform asset was imported using the *.obj file (3D Model downloaded)
             ModelRenderable.builder()
                     .setSource(this, Uri.parse("ArcticFox_Posed.sfb"))
                     .build()
